@@ -1,0 +1,15 @@
+.profile__text-field_type_author {
+  font-weight: 500;
+  font-size: 42px;
+  line-height: 48px;
+  display: inline;
+}
+
+@media screen and (max-width:622px) {
+  .profile__text-field_type_author {
+    font-weight: 500;
+    font-size: 27px;
+    line-height: 1.21;
+    padding-left: 32px;
+  }
+}
