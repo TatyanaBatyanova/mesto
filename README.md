@@ -4,4 +4,5 @@
 
 Stack: HTML5, CSS3, Flexbox, Figma, БЭМ, JavaScript.
 
-Ссылка на сайт: https://github.com/TatyanaBatyanova/mesto.git
+Ссылка на сайт: https://tatyanabatyanova.github.io/mesto/index.html
+
